@@ -5,7 +5,7 @@ Module 3 Challenge
    This project is a demonstration of my Python skillset thus far in the Data Analytics certification program.
    The following are the objectives of this assignment:
    
-   PyBank Assignment:
+PyBank Assignment:
    To create a Python script that analyzes the financials of a company and calculate the following:
 
         ** The total number of months included in the dataset
@@ -14,7 +14,7 @@ Module 3 Challenge
         ** The greatest increase in profits (date and amount) over the entire period
         ** The greatest decrease in profits (date and amount) over the entire period
 
-    PyPoll Assignment:
+PyPoll Assignment:
     To create a Python script that analyzes the financials of a company and calculate the following:
 
         ** The total number of votes cast
