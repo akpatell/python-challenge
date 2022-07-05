@@ -26,5 +26,5 @@ PyPoll Assignment:
 # Folders for PyBank and PyPoll 
 Each contains:
 
-   ** Resources - These folders contains the "budget_data_csv" and "election_data.csv" files
-   ** analysis - These foldesrs contains text files named "budget_data.txt" and "election_data.txt" files
+        ** Resources - These folders contains the "budget_data_csv" and "election_data.csv" files
+        ** analysis - These foldesrs contains text files named "budget_data.txt" and "election_data.txt" files
