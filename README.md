@@ -15,7 +15,7 @@ PyBank Assignment:
         ** The greatest decrease in profits (date and amount) over the entire period
 
 PyPoll Assignment:
-    To create a Python script that analyzes the financials of a company and calculate the following:
+    To create a Python script that analyzes votes for each candidate for a small, rural town's vote couting process and calculate the following:
 
         ** The total number of votes cast
         ** A complete list of candidates who received votes
